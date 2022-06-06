@@ -29,6 +29,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  get: ^4.6.1
+  http: ^0.13.4
   fluttersubmoduleone:
     path: fluttersubmoduleone/
 
