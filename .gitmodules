@@ -1,0 +1,3 @@
+[submodule "fluttersubmoduleone"]
+	path = fluttersubmoduleone
+	url = https://github.com/vishalk386/fluttersubmoduleone.git
